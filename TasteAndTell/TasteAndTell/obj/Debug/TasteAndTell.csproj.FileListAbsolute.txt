@@ -1,0 +1,8 @@
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\bin\TasteAndTell.dll.config
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\bin\TasteAndTell.dll
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\bin\TasteAndTell.pdb
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\obj\Debug\TasteAndTell.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\obj\Debug\TasteAndTell.dll
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\obj\Debug\TasteAndTell.pdb
