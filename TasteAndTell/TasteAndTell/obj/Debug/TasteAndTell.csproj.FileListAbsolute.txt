@@ -6,3 +6,4 @@ C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\bin\Microsoft
 C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\obj\Debug\TasteAndTell.csproj.CoreCompileInputs.cache
 C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\obj\Debug\TasteAndTell.dll
 C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\obj\Debug\TasteAndTell.pdb
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteAndTell\obj\Debug\TasteAndTell.csprojResolveAssemblyReference.cache

@@ -10,7 +10,52 @@
 namespace TasteAndTell.Pages {
     
     
-    public partial class SearchSuggestion {
+    public partial class FoodMenu {
+        
+        /// <summary>
+        /// breakfastSuggButton control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button breakfastSuggButton;
+        
+        /// <summary>
+        /// lunchSuggButton control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button lunchSuggButton;
+        
+        /// <summary>
+        /// saladSuggButton control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button saladSuggButton;
+        
+        /// <summary>
+        /// dinnerSuggButton control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button dinnerSuggButton;
+        
+        /// <summary>
+        /// dessertSuggButton control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button dessertSuggButton;
         
         /// <summary>
         /// recipeSuggestor control.

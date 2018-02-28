@@ -67,8 +67,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="App_Themes\DefaultTheme\Default.css" />
     <Content Include="Default.aspx" />
-    <Content Include="Pages\SearchSuggestion.aspx" />
+    <Content Include="Pages\FoodMenu.aspx" />
     <Content Include="Taste.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -93,12 +94,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Pages\SearchSuggestion.aspx.cs">
-      <DependentUpon>SearchSuggestion.aspx</DependentUpon>
+    <Compile Include="Pages\FoodMenu.aspx.cs">
+      <DependentUpon>FoodMenu.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Pages\SearchSuggestion.aspx.designer.cs">
-      <DependentUpon>SearchSuggestion.aspx</DependentUpon>
+    <Compile Include="Pages\FoodMenu.aspx.designer.cs">
+      <DependentUpon>FoodMenu.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Taste.Master.cs">
