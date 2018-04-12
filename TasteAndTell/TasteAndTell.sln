@@ -4,6 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasteAndTell", "TasteAndTell\TasteAndTell.csproj", "{3C541878-8FF0-48BB-8CD1-6967F9CD4B7B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7F6B3926-4B1E-4832-BEFF-5E3B195AF7C5} = {7F6B3926-4B1E-4832-BEFF-5E3B195AF7C5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasteService", "TasteService\TasteService.csproj", "{7F6B3926-4B1E-4832-BEFF-5E3B195AF7C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +20,10 @@ Global
 		{3C541878-8FF0-48BB-8CD1-6967F9CD4B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C541878-8FF0-48BB-8CD1-6967F9CD4B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C541878-8FF0-48BB-8CD1-6967F9CD4B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6B3926-4B1E-4832-BEFF-5E3B195AF7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6B3926-4B1E-4832-BEFF-5E3B195AF7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6B3926-4B1E-4832-BEFF-5E3B195AF7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6B3926-4B1E-4832-BEFF-5E3B195AF7C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

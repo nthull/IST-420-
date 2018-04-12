@@ -1,0 +1,6 @@
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\WaitAndServe\bin\WaitAndServe.dll.config
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\WaitAndServe\bin\WaitAndServe.dll
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\WaitAndServe\bin\WaitAndServe.pdb
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\WaitAndServe\obj\Debug\WaitAndServe.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\WaitAndServe\obj\Debug\WaitAndServe.dll
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\WaitAndServe\obj\Debug\WaitAndServe.pdb

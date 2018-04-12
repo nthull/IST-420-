@@ -11,7 +11,7 @@ namespace TasteAndTell.Pages
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         protected void suggestLink_Click(object sender, EventArgs e)
