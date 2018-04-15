@@ -1,4 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Taste.Master" AutoEventWireup="true" CodeBehind="CreateAccount.aspx.cs" Inherits="TasteAndTell.Pages.CreateAccount" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Taste.Master" AutoEventWireup="true" CodeBehind="CreateAccount.aspx.cs" Inherits="TasteAndTell.Pages.CreateAccount" 
+   %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>

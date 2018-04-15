@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 using System.Web.Security;
 using TasteAndTell.App_Code;
 using System.Web.Script.Serialization;
+using System.Web.Handlers;
 using System.IO;
 using TasteAndTell.ServiceReference1;
 
@@ -16,11 +17,12 @@ namespace TasteAndTell.Pages
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
+            Service1Client client = new Service1Client(); //Start connection with Service1
             //Hash the user's passsword for storage
             string hashPass = FormsAuthentication.HashPasswordForStoringInConfigFile(txtPassword.Text, "sha1");
 
@@ -35,6 +37,8 @@ namespace TasteAndTell.Pages
             JavaScriptSerializer jss = new JavaScriptSerializer();
             string newUserJSON = jss.Serialize(newUser);
             lblJSON.Text = newUserJSON;
+            client.GetNewUserAsync(lblJSON.Text);
+            client.Close();
         }
     }
 }

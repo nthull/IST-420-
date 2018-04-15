@@ -14,6 +14,7 @@ namespace TasteService
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service1 : IService1
     {
+
         public string GetData(int value)
         {
             return string.Format("You entered: {0}", value);
@@ -32,7 +33,7 @@ namespace TasteService
             return composite;
         }
 
-        public void GetNewUser(string newUser)
+        public string GetNewUser(string newUser)
         {
             JavaScriptSerializer jss = new JavaScriptSerializer();
             User newUserAdd = jss.Deserialize<User>(newUser);
@@ -40,9 +41,7 @@ namespace TasteService
             string email = newUserAdd.Email;
             string pass = newUserAdd.Password;
             string username = newUserAdd.Username;
-            Console.Write(username);
-            return;
+            return username;
         }
-        
     }
 }

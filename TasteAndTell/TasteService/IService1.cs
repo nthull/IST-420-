@@ -20,8 +20,9 @@ namespace TasteService
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
         [OperationContract]
-        [WebInvoke(RequestFormat = WebMessageFormat.Json)]
-        void GetNewUser(string newUser);
+        [WebInvoke(Method = "GET", BodyStyle = WebMessageBodyStyle.Bare,
+            ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json)]
+        string GetNewUser(string newUser);
         // TODO: Add your service operations here
     }
 

@@ -4,3 +4,4 @@ C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteService\bin\TasteServ
 C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteService\obj\Debug\TasteService.csproj.CoreCompileInputs.cache
 C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteService\obj\Debug\TasteService.dll
 C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteService\obj\Debug\TasteService.pdb
+C:\Users\natha\Documents\GitHub\IST-420-\TasteAndTell\TasteService\obj\Debug\TasteService.csprojResolveAssemblyReference.cache
